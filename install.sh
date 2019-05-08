@@ -9,7 +9,7 @@
 # 2019 - Nícolas Wildner
 
 # Cowsay on Debian-based distros is not on root path,
-# neither is installed inside /usr/games
+# (installed inside /usr/games)
 COWEXISTS="$(command -v cowsay /usr/games/cowsay | head -1)"
 if ! [ -x "$COWEXISTS" ]; then
         echo 'Error: cowsay is not installed.' >&2
