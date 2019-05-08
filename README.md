@@ -1,6 +1,6 @@
 # cowsay-ancap
 
-Additional ASCII cowfiles for [cowsay](http://en.wikipedia.org/wiki/Cowsay), for those that are "gado demais ;)"
+Additional ASCII cowfiles for [cowsay](http://en.wikipedia.org/wiki/Cowsay), for those that are not "gado demais ;)"
 
 ## Installation
 First, download and install `cowsay`.`install.sh` will check for it anyway
