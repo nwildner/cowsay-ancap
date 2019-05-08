@@ -6,3 +6,19 @@ Additional ASCII cowfiles for [cowsay](http://en.wikipedia.org/wiki/Cowsay), for
 First, download and install `cowsay`.`install.sh` will check for it anyway
 
 Clone this repo, increase your privileges(root) and run `install.sh`. Or just copy everything inside `/cows` dir to your cowdir(usually `/usr/share/cowsay/cows`)
+
+Be happy using new cows.
+
+    nwildner@deathstar:~$ echo "Vota que Muuuuuuuuuuda" | cowsay -f gadsenflag.cow
+     ________________________
+    < Vota que Muuuuuuuuuuda >
+     ------------------------
+       \
+        \
+               ____
+            >-->_- \
+                  \ \
+             ______|_|
+            (_<>___<>_)
+           (__<>___<>__)__  oo
+          (__<>___<>___<>_00
