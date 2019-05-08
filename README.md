@@ -9,7 +9,7 @@ Clone this repo, increase your privileges(root) and run `install.sh`. Or just co
 
 Be happy using new cows.
 
-    nwildner@deathstar:~$ echo "Vota que Muuuuuuuuuuda" | cowsay -f gadsenflag.cow
+    nwildner@deathstar:~$ echo "DONT TREAD ON ME" | cowsay -f gadsenflag.cow
      __________________
     < DONT TREAD ON ME >
      ------------------
