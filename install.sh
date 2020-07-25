@@ -16,10 +16,10 @@ if ! [ -x "$COWEXISTS" ]; then
         exit 1
 fi
 
-if ! [ -w "/usr/share/cowsay/cows/" ]; then
+if ! [ -w "/usr/share/cows/" ]; then
         echo 'Error: You dont have permission to write cows dir' >&2
         exit 1
 fi
 
 echo 'Okay, installing animals without prompt'
-install -D $PWD/cows/* /usr/share/cowsay/cows/
+install -D $PWD/cows/* /usr/share/cows/
